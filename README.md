@@ -8,7 +8,7 @@
 -->
 
 # Introduction to GitHub
-ko@
+
 _Get started using GitHub in less than an hour._
 
 </header>
@@ -21,6 +21,7 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
+# わけわかめ
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
